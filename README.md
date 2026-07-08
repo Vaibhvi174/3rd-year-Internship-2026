@@ -1,1 +1,2 @@
-# 3rd-year-Internship-2026
+# Internship_AI_ML
+Internship 3rd year
