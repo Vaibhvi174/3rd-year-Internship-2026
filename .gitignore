@@ -1,0 +1,10 @@
+srm/
+__pycache__/
+*.py[cod]
+*.pyd
+*.dll
+*.whl
+*.h5
+*.hdf5
+*.ipynb_checkpoints/
+.ipynb_checkpoints/
